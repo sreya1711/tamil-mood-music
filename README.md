@@ -1,6 +1,6 @@
 # 🎵 Tamil Mood Music 🎶
 
-A beautiful and interactive web app built with ReactJS that generates and plays Tamil songs based on the selected mood. Includes user authentication and stunning UI with particle animations.
+A beautiful and interactive web app built with ReactJS that generates and plays Tamil songs based on the selected mood. Includes user authentication and stunning UI
 
 ---
 
@@ -11,7 +11,7 @@ A beautiful and interactive web app built with ReactJS that generates and plays 
 - Choose a mood (e.g., Love, Sad, Happy, Motivational).
 - View mood-specific Tamil song recommendations.
 - Play songs directly from the app using API streams.
-- Enjoy an aesthetic UI with pink and purple gradients and animated particles.
+- Enjoy an aesthetic music here.
 
 ---
 
@@ -21,7 +21,7 @@ A beautiful and interactive web app built with ReactJS that generates and plays 
 - 🎭 Mood selection interface.
 - 🎧 Stream songs directly without downloading.
 - 💅 Animated gradient background & particles effect.
-- 👋 Personalized greeting after login (e.g., `Hello Akash, Have a nice day💕`).
+- 👋 Personalized greeting after login
 
 ---
 
